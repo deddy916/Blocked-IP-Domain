@@ -1,17 +1,3 @@
-premiumize.com
-anonfiles.com
-sendspace.com
-fex.net
-transfer.sh
-send.exploit.in
-sync-system-time.cf
-update-windows-security.tk
-dns-iprecords.tk
-universityofmhealth.biz
-oracle-java.cf
-0onlyastep0.xyz
-0readerazone0.xyz
-0tryamore0.xyz
 54.39.202.0 
 51.89.135.15
 51.89.169.201
