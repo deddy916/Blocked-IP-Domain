@@ -51,14 +51,6 @@
 5.188.86.195
 197.158.89.85
 77.73.133.84
-ciborkumari.xyz
-sombrat.com
-gororama.com
-softeruplive.com
-altocloudzone.live
-myappearinc.com
-parkerpublic.com
-tumbleproperty.com
 162.142.125.0/24
 167.94.138.0/24
 167.94.145.0/24
