@@ -43,3 +43,4 @@ googleads.g.doubleclick.net
 adservice.google.co.id
 adservice.google.com
 googleweblight.com
+yukclick.me
