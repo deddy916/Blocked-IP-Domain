@@ -40,6 +40,8 @@ oracle-java.cf
 0tryamore0.xyz
 www.googleadservices.com
 googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+www.googleadservices.com
 adservice.google.co.id
 adservice.google.com
 googleweblight.com
