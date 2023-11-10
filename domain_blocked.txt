@@ -52,5 +52,6 @@ securepubads.g.doubleclick.net
 www.googleadservices.com
 adservice.google.co.id
 adservice.google.com
+clck.mgid.com
 googleweblight.com
 yukclick.me
