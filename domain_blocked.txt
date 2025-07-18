@@ -163,3 +163,5 @@ registeredhomeiclude.com
 49.12.211.132
 5.75.213.68
 157.180.94.222
+mine.bmpool.org
+cs9.wac.phicdn.net
