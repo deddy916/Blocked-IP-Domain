@@ -537,7 +537,7 @@ NigNig12344-54127.portmap.host
 sswad-48767.portmap.host
 bebe228855.hopto.org
 root123454321-24953.portmap.host
-https://my-paste-app-nine.vercel.app
+my-paste-app-nine.vercel.app
 wajig60179-23764.portmap.host
 ebube.ydns.eu
 cocopserver.ydns.eu
