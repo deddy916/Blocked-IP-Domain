@@ -742,6 +742,19 @@ purelog.duckdns.org
 myapps.sytes.net
 mxcnss.dns04.com
 galilaospa.com
+#[ALL-BU][SOCMNCH][IOC-LIST] 29 Oktober 2025 SalatStealer
+196dot247dot163dot8.webrat.in
+fsafasjasgia.live
+krista-tur.ru
+salat.cn
+salator.ru
+webr.at
+webrat.ru
+webrat.su
+webrat.top
+webrat.uk
+wrat.in
+
 
 
 
