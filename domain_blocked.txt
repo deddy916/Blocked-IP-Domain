@@ -777,7 +777,7 @@ myupdaterem.duckdns.org
 westy.karslioglu-tr.com
 22312mandayyyyyreymcuxe.duckdns.org
 nsfcoatings.vip
-216.9.227.119/250
+216.9.227.119
 office-winemagbk.duckdns.org
 office-winemag.duckdns.org
 goe.swpriest.com
