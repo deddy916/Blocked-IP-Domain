@@ -1345,4 +1345,13 @@ api.xwphd.com
 bkp.windowstimes.me
 images.windowstimes.online
 image.windowstimes.online
+#[ALL-BU][SOCMNCH][IOC-LIST] Notepad++ Supply Chain Compromise 20 February 2026
+cdncheck.it
+cdncheck.it.com
+safe-dns.it.com
+self-dns.it.com
+skycloudcenter.com
+wiresguard.com
+bechugh.top
 #
+
