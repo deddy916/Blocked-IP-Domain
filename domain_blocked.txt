@@ -1544,4 +1544,7 @@ twtaxgo.cn
 21.yunduans.com
 usd56789.com
 1080.aikkk.net
+#[ALL-BU][SOCMNCH][IOC-LIST] 17 April 2026 Adobe Reader Zero Day
+zx.ado-read-parser.com
+ado-read-parser.com
 #
