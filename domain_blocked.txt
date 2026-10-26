@@ -1,4 +1,4 @@
-~$[ALL-BU][SOCMNCH][IOC-LIST] INC Ransom 16 Okt 2026
+#$[ALL-BU][SOCMNCH][IOC-LIST] INC Ransom 16 Okt 2026
 ip-api.com
 #[ALL-BU][SOCMNCH][IOC-LIST] Nightspire Ransomware 16 Okt 2026
 nightspireteam.receiver.proton.me
