@@ -1,5 +1,5 @@
 #[ALL-BU][SOCMNCH][IOC-LIST] Nightspire Ransomware 16 Okt 2026
-nightspireteam.receiver@proton.me
+nightspireteam.receiver.proton.me
 p3reixfwlpjtein4yta3kiwyijxdktypcipz6jjq4wgbyi73e3fsmeyd.onion
 nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion
 nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion
@@ -16,7 +16,7 @@ www.prival.com
 chirurgiemaxillo.com
 norpak.com
 uwock.ca
-nightspireteam.receiver@onionmail.org 
+nightspireteam.receiver.onionmail.org 
 www.smtlawyers.ca
 nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion
 #[ALL-BU][SOCMNCH][IOC-LIST] Majinahanashi 14 Okt 2026
