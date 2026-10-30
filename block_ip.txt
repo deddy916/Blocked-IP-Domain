@@ -1,3 +1,5 @@
+#claude_code_compromised
+134.209.82.225
 #[ALL-BU][SOCMNCH][IOC-LIST] Nightspire Ransomware 16 Okt 2026
 23.196.145.221
 23.196.193.245
