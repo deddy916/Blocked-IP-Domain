@@ -1,3 +1,8 @@
+#[ALL-BU][SOCMNCH][IOC-LIST] 09112026_Hirudo
+helloharmonyos.com
+v8925.com
+v9139.com
+yh15j.com
 #[ALL-BU][SOCMNCH][IOC-LIST] 19112026_VoidCrypt Ransomware Group
 139.180.208.225
 cone.msoftupdates.com 
