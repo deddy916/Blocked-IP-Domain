@@ -1,3 +1,11 @@
+#[ALL-BU][SOCMNCH][IOC-LIST] 19112026_ARTEX (AI-Driven Autonomous Pentest Framework)
+xcai.pro
+direct.xcai.pro
+fofoapi.com
+u6ud2s.dnslog.cn
+sqlserver-sqlite.com
+nginxmysql.com
+www.ddduuuppp.com
 #[ALL-BU][SOCMNCH][IOC-LIST] Hirudo RAT 19 Oktober 2026 -2
 www.helloharmonyos.com
 jiekou.baojingtextile.cn
